@@ -25,6 +25,17 @@ public class SumCalculator {
 }
 
 }
+
+
+#ethen change the java code
+
+// loadClass function prototype
+
+Class r = loadClass(String className, boolean resolveIt);
+
+// className: name of the class to be loaded
+// resolveIt: flag to decide whether any referenced class should be loaded or not.
+
 #vivekconflict change the code
 
 import java.io.*;
