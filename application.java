@@ -25,3 +25,12 @@ public class SumCalculator {
 }
 
 }
+#vivekconflict change the code
+
+import java.io.*;
+
+class GFG {
+    public static void main (String[] args) {
+        System.out.println(&quot;GFG!&quot;);
+    }
+}
