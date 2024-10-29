@@ -8,3 +8,10 @@ $ sourcedefender activate --token 470a7f2e76ac11eb94390242ac130002
    - Account ID      : bfa41ccd-9738-33c0-83e9-cfa649c05288
    - System ID       : 42343554645384
    - Valid Until     : Sun, May 9, 2024 10:59 PM
+
+#Kajal change in the python code
+
+$ cat hello.py
+def message():
+    print("hi!")
+$
