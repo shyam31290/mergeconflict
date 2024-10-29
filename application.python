@@ -10,6 +10,12 @@ $ sourcedefender activate --token 470a7f2e76ac11eb94390242ac130002
    - Valid Until     : Sun, May 9, 2024 10:59 PM
 
 
+#Kajal change in the python code
+
+$ cat hello.py
+def message():
+    print("hi!")
+
 
 #suman change in python 
 
@@ -21,7 +27,6 @@ $ python3
 >>> import sourcedefender
 >>> import helloworld
 Hello World!
->>> exit()
 
 #rinki change the file in data1
 
@@ -31,5 +36,6 @@ GhP6+FOEA;qsm6NrRnXHnlU5E!(pT(E<#t=
 GhN0L!7UrbN"Am#(8iPPAG;nm-_4d!F9"*7
 T1q4VZdj>uLBghNY)[;Ber^L=*a-I[MA.-4
 ------END SOURCEDEFENDER FILE------
+
 
 $
